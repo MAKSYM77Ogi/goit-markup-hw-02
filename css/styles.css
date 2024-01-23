@@ -7,11 +7,12 @@ a{
     text-decoration: none;
 }
 ul, ol {
-    list-style: none;
+    list-style: non;
 }
 .logo {color:  #4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
+    line-height: 1.17;
     font-weight: 700;
     line-height: 1,17; 
     letter-spacing: 0.03em;
@@ -57,7 +58,8 @@ main{
 }
 .button{
     border-radius: 4px;
-background: var(--IRIS, #4D5AE5);
+background: #4D5AE5;
 box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-
+font-weight: 500
+line-height: 1.5px; 
 }
