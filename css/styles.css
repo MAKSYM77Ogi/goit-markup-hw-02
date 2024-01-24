@@ -7,14 +7,13 @@ a{
     text-decoration: none;
 }
 ul, ol {
-    list-style: non;
+    list-style: none;
 }
 .logo {color:  #4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
-    line-height: 1.17;
     font-weight: 700;
-    line-height: 1,17; 
+    line-height: 1.17; 
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -23,7 +22,7 @@ ul, ol {
 .nav-link {color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 .nav-link:hover,
@@ -35,7 +34,7 @@ ul, ol {
 .address-link {
     color: #434455;
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
 }
 .address-link:hover,
@@ -44,25 +43,37 @@ ul, ol {
 
 }
 main{
-    font-family: ;
-    background-color: #2E2F42;
+   
+    .mein-mein-hero{
+        background-color: #2E2F42;
+    }
+    .effective {
+        text-align: center;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07em;
+        letter-spacing: 0.02em;
+        color: #fff;
+        background-color :#2E2F42;
+    }
+        
+    .button{
+        background-color: #404BBF ;
+        font-weight: 500;
+        line-height: 1.5em;
+        letter-spacing: 0.04em; 
+        cursor: pointer;
+        color: #fff;
+    }
+ 
+section{
+    .strategi {
+
+    }
 }
-.effective {
-    text-align: center;
-    font-family: Roboto;
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 1.07em;
-    letter-spacing: 0.02em;
-    color: #fff;
-    background-color :#2E2F42;
-}
-.button{
-border-radius: 4px;
-background-color: #4D5AE5;
-font-weight: 500;
-line-height: 1.5em;
-letter-spacing: 0.04em; 
-cursor: pointer;
-color: #fff;
-}
+  footer{
+    footer .footer-hero {
+        background-color: #2E2F42;
+    
+  }
