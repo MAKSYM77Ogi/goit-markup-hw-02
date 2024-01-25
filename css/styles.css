@@ -59,13 +59,14 @@ main{
     }
         
     .button{
-        background-color: #404BBF ;
+        background-color: #4D5AE5;
         font-weight: 500;
         line-height: 1.5em;
         letter-spacing: 0.04em; 
         cursor: pointer;
         color: #fff;
     }
+
     h3{
     .strategy-link{
      font-family: Roboto;
@@ -75,7 +76,7 @@ main{
      letter-spacing: 0.02em;
      text-align: left;
        }
-       section {
+    
         .section{
      background-color:#2e2f42
     font-family: Roboto;
@@ -85,7 +86,10 @@ main{
     letter-spacing: 0.02em;
     text-align: center;
         }
+    .section-forst{
+        background-color зі значенням #2e2f42
     }
+    
       .strategy-link{
 font-size: 20px;
 font-weight: 500;
