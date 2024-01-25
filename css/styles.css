@@ -86,9 +86,18 @@ main{
     text-align: center;
         }
     }
-      
-
-section {
+      .strategy-link{
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+      }
+      .text{
+        font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+      }
     .section-tu{
 font-family: Roboto;
 font-size: 16px;
@@ -96,16 +105,11 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.02em;
 text-align: center;
-
     }
-}
-   
-    .strategi {
 
-    }
 }
-  footer{
-    footer .footer-hero {
+.footer-hero {
         background-color: #2E2F42;
-    
   }
+
+}
