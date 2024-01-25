@@ -70,30 +70,23 @@ main{
     h3{
     .strategy-link{
      font-family: Roboto;
-    font-size: 16px;
-     font-weight: 400;
-     line-height: 24px;
+     font-size: 56px;
+     font-weight: 500;
+     line-height: 1.07px;
      letter-spacing: 0.02em;
-     text-align: left;
+     color: #ffffff 
+
        }
     
         .section{
      background-color:#2e2f42
-    font-family: Roboto;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: center;
-        }
-    .section-forst{
-        background-color зі значенням #2e2f42
+    
     }
     
       .strategy-link{
-font-size: 20px;
+font-size: 56px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.07;
 letter-spacing: 0.02em;
       }
       .text{
