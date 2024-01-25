@@ -9,7 +9,8 @@ a{
 ul, ol {
     list-style: none;
 }
-.logo {color:  #4D5AE5;
+.logo {
+    color:  #4D5AE5;
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -42,14 +43,15 @@ ul, ol {
     color: #404BBF;
 
 }
-main{
    
     .mein-mein-hero{
         background-color: #2E2F42;
     }
+
+
+
     .effective {
         text-align: center;
-        font-family: Roboto;
         font-size: 56px;
         font-weight: 700;
         line-height: 1.07em;
@@ -66,43 +68,46 @@ main{
         cursor: pointer;
         color: #fff;
     }
-
-    h3{
-    .strategy-link{
-     font-family: Roboto;
-     font-size: 56px;
-     font-weight: 500;
-     line-height: 1.07px;
-     letter-spacing: 0.02em;
-     color: #ffffff 
-
-       }
-    
-        .section{
-     background-color:#2e2f42
-    
-    }
     
    
-      }
-      .text{
-        font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.02em;
-      }
-    .section-tu{
-font-family: Roboto;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.02em;
-text-align: center;
-    }
+.section {
+}
+
+
+.strategy-link {
+    color:  #2E2F42;
+    /* Header 3 */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.2em;    
 
 }
+
+.text {
+    line-height: 1.5 
+    letter-spacing: 0.02em;
+}
+
+
+
+
+.section-forst {
+}
+.section-tu {
+}
+
+
+
+
+
+
+    
+      
 .footer-hero {
         background-color: #2E2F42;
   }
 
-}
+
+
