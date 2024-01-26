@@ -61,6 +61,7 @@ ul, ol {
     }
         
     .button{
+      
         background-color: #4D5AE5;
         font-weight: 500;
         line-height: 1.5em;
@@ -86,15 +87,37 @@ ul, ol {
 }
 
 .text {
-    line-height: 1.5 
-    letter-spacing: 0.02em;
+    color: #434455;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+ line-height: 1.5 
+ letter-spacing: 0.02em
 }
 
 
 
 
-.section-forst {
-}
+
+
+    .strategy-link-our {
+        color:  #2E2F42;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.2;
+        letter-spacing: 0.2em;    
+    
+    }
+
+    .text-our {
+        line-height: 1.5 
+        letter-spacing: 0.02em;
+    }
+    
+
+
 .section-tu {
 }
 
