@@ -60,7 +60,7 @@ ul, ol {
         background-color :#2E2F42;
     }
         
-    .button{
+    .hero-btn{
       
         background-color: #4D5AE5;
         font-weight: 500;
@@ -69,7 +69,11 @@ ul, ol {
         cursor: pointer;
         color: #fff;
     }
-    
+    .hero-btn:focus {
+        background-color: #404BBF;
+        outline: none; 
+        box-shadow:;
+    }
    
 .section {
 }
@@ -107,7 +111,7 @@ font-weight: 400;
         font-style: normal;
         font-weight: 500;
         line-height: 1.2;
-        letter-spacing: 0.2em;    
+        letter-spacing: 0.02em;    
     
     }
 
